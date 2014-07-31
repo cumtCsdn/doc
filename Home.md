@@ -1,42 +1,19 @@
-# Welcome
+# 矿大csdn社团文档中心
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+这里的文档包括社团组织架构、社团规定、社团项目介绍等等内容，未来所有的文档都将会记录在这里。
 
-## Wiki features
-
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
-
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
-
-Go ahead and try:
-
-```
-$ git clone https://linyanghui2009@bitbucket.org/linyanghui2009/csdnsite.git/wiki
-```
-
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
-
-## Syntax highlighting
+## 社团介绍
+----------
 
 
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
+## 社团网站架构及规划
+----------
 
-[Pygments]: http://www.pygments.org/
+## 社团项目介绍
+----------
 
+## 社团内部活动策划
+----------
 
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
+## 社团内部规定文档
+----------
